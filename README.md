@@ -112,14 +112,6 @@ This project serves as a portfolio piece, highlighting the following core compet
 └── images/                  # Visualizations for README (e.g., geospatial plots)
 ```
 
-## 🚀 Future Improvements
-
-Potential next steps to further enhance the project and demonstrate MLOps capabilities:
-*   **Deployment:** Build a prediction API using **FastAPI** and deploy it to a cloud service.
-*   **Web Application:** Deploy the model as an interactive web application using **Streamlit**.
-*   **Monitoring:** Integrate monitoring dashboards to track data drift, model performance decay, and feature importance over time.
-*   **Modeling:** Experiment with deep learning approaches (e.g., a simple MLP) to capture non-linear patterns.
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
